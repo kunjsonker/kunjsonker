@@ -22,9 +22,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/kunjsonker">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjsonker&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="kunjsonker's GitHub Stats" />
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjsonker&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="kunjsonker's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=kunjsonker&theme=dark&hide_border=true&cache_seconds=86400" alt="kunjsonker's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kunjsonker&theme=dark&hide_border=true&cache_seconds=86400" alt="kunjsonker's GitHub Streak" width="49%" /> -->
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kunjsonker&theme=dark&radius=10" alt="kunjsonker's Activity Graph" />
