@@ -19,7 +19,7 @@
 - Machine Learning
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/kunjsonker">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kunjsonker&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="kunjsonker's GitHub Stats" />
